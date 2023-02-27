@@ -1,5 +1,6 @@
 {
-    "name": "mermshaus/crc",
+    "name": "hsk99/crc",
+    "type": "library",
     "description": "Calculates CRC checksums for input data.",
     "keywords": [
         "crc"
